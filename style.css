@@ -1,0 +1,31 @@
+body {
+	background-color: #0f0f1c;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	transition: background-color 1s ease-in-out;
+}
+
+.moon {
+	color: #f3d6c1;
+	font-size: 200px;
+	transition: all 1s ease-in-out;
+	cursor: pointer;
+}
+
+.sleep-emoji {
+	font-size: 100px;
+	margin-top: 50px;
+	transition: all 1s ease-in-out;
+}
+
+.sun {
+	color: #f6d76a;
+	font-size: 200px;
+	transition: all 1s ease-in-out;
+}
+
+.bg-light {
+	background-color: #f8f4d4;
+}
